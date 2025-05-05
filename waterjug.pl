@@ -1,4 +1,5 @@
 % Initial state: both jugs are empty
+:- discontiguous solve/0.
 start(state(0, 0)).
 
 % Goal state: 2 liters in Jug A
